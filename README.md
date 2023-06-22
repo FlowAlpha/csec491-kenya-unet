@@ -6,4 +6,4 @@ One of the difficult roadblocks in empirical economics is gaining sufficient and
 
 **Repository includes**:
 * [Project report](/final_report_rev1.pdf)
-* Python notebook workflow(/daley_unet_kenyaPop_proj.ipynb)
+* [Python notebook workflow](/daley_unet_kenyaPop_proj)
